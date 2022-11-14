@@ -1,0 +1,31 @@
+URxvt*geometry: 64x128
+URxvt*font:  xft:DejaVu Sans Mono:size=11
+URxvt*depth: 32
+URxvt*borderless: 1
+URxvt*scrollBar:  false
+URxvt*saveLines:  5000
+URxvt*termName:   rxvt-unicode
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: firefox-developer
+URxvt.matcher.button: 1
+*.foreground:  #e8eaef
+*.background:  [90]#161720
+*.cursorColor: #b4b6e4
+*.border:      #161720
+*.color0:       #232731
+*.color8:       #6f798c
+*.color1:       #a65f69
+*.color9:       #a65f69
+*.color2:       #3b8563
+*.color10:      #3b8563
+*.color3:       #b39669
+*.color11:      #b39669
+*.color4:       #487799
+*.color12:      #487799
+*.color5:       #b9637e
+*.color13:      #b9637e
+*.color6:       #348396
+*.color14:      #348396
+*.color7:       #6f798c
+*.color15:      #9faab8
+
