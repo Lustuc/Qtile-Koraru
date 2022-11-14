@@ -1,11 +1,11 @@
 # Qtile - Koraru
 A bunch of config files for Qtile, aiming toward a minimalistic but comfortable setup.
 
-Depencencies:
+### Depencencies:
 
 Rofi and Picom are used, but the config should run without errors even if you don't install those.
 
-Shortcuts:
+### Shortcuts:
 
 - [mod] + l : Toggle between keyboard layouts
 - [mod] + Left : Move focus to the left
